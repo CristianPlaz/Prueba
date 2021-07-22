@@ -10,3 +10,4 @@ Cambio desde web para verlo en terminal
 
 Cambio desde archivo de texto gedit 210721 //se enviará desktop
 Cambio desde web para verlo en desktop
+Cambio 2 desde web para verlo en desktop
