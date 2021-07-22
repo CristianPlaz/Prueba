@@ -8,3 +8,4 @@ comit desde archivo de texto
 Cambio desde archivo de texto gedit 210721 //se enviará desde terminal
 Cambio desde web para verlo en terminal
 
+Cambio desde archivo de texto gedit 210721 //se enviará desktop
