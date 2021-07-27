@@ -1,9 +1,10 @@
-#include <algorithm>
-#include <iostream>
-#include <vector>
 // Solucion a problema en la plataforma OmegaUP
 // https://omegaup.com/arena/problem/Las-rosas-del-jardin-de-la-Reina#problems
 
+
+#include <algorithm>
+#include <iostream>
+#include <vector>
 #include <cstdio>
 
 int main( ) {
